@@ -1,0 +1,53 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #966262;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Classes */
+.intro, .about, .contact, .gallery {
+    padding: 2rem;
+    text-align: center;
+}
+
+#textFooter {
+    position: relative;
+    text-align: center;
+    z-index: 1; 
+    font-size: 1rem; 
+    margin: 0;
+    padding-top: 180px; 
+}
+
+
+.intro h1, .about h2, .contact h1
