@@ -5,7 +5,7 @@
 - Página "Contato": crie uma página "Contato" que inclua um formulário de contato básico com campos para nome, email e mensagem. Após clicar em enviar, será encaminhada para uma página onde aparecerá a mensagem que foi enviada e terá a possibilidade de voltar para a página inicial.
 - Página "Galeria": crie uma página "Galeria" que inclua uma galeria de imagens relacionadas ao tema do site.
 - Em alguma das páginas deve existir uma tabela onde apresente dados, por exemplo, dados comparativos de modelos de algum aparelho.
-- 
+ 
 Além disso, o menu de navegação deverá existir em todas as páginas para que possibilite a navegação completa em todas as páginas.
 <p align="justify">Faça com que as páginas HTML possuam no minimo 4 classes distintas. Cada classe deverá ter propriedades alteradas, busque ter no minimo 5 propriedades no CSS.</p>
 <p align="justify">Além disso, faça aplicação de estilos em elementos utilizando ID. Utilize divs para auxiliar.</p>
